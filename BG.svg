@@ -1,0 +1,1107 @@
+<svg width="100%" min-height="0" viewBox="0 0 1920 1280" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <g id="g_1">
+    <path id="g_1_1" d="M-42.2855 -40.9249C-42.2855 -54.7321 -31.0926 -65.925 -17.2855 -65.925H203.039C216.846 -65.925 228.039 -54.7321 228.039 -40.925V179.399C228.039 193.206 216.846 204.399 203.039 204.399H-17.2854C-31.0926 204.399 -42.2855 193.206 -42.2855 179.399V-40.9249Z" stroke="#EFEFEF" />
+    <path id="g_1_2" d="M484.429 -65.925V6.61467C484.429 20.4218 473.236 31.6147 459.429 31.6147H158.286C144.479 31.6147 133.286 20.4218 133.286 6.6147V-65.925" stroke="#EFEFEF" />
+    <path id="g_1_3" d="M660 104.073H590.247C576.44 104.073 565.247 115.266 565.247 129.073V433.002C565.247 446.809 576.44 458.002 590.247 458.002H660" stroke="#EFEFEF" />
+    <path id="g_1_4" d="M-42.3474 104.073H41.4016C55.2087 104.073 66.4016 115.266 66.4016 129.073V433.002C66.4016 446.809 55.2087 458.002 41.4016 458.002H-42.3474" stroke="#EFEFEF" />
+    <path id="g_1_5" d="M484.429 628V549.887C484.429 536.079 473.236 524.887 459.429 524.887H158.286C144.479 524.887 133.286 536.079 133.286 549.887V628" stroke="#EFEFEF" />
+    <path id="g_1_6" d="M-42.2855 382.676C-42.2855 368.869 -31.0926 357.676 -17.2855 357.676H203.039C216.846 357.676 228.039 368.869 228.039 382.676V603C228.039 616.807 216.846 628 203.039 628H-17.2854C-31.0926 628 -42.2855 616.807 -42.2855 603V382.676Z" stroke="#EFEFEF" />
+    <path id="g_1_7" d="M389.676 -40.9249C389.676 -54.7321 400.869 -65.925 414.676 -65.925H635C648.807 -65.925 660 -54.7321 660 -40.925V179.399C660 193.206 648.807 204.399 635 204.399H414.676C400.869 204.399 389.676 193.206 389.676 179.399V-40.9249Z" stroke="#EFEFEF" />
+    <path id="g_1_8" d="M389.676 382.676C389.676 368.869 400.869 357.676 414.676 357.676H635C648.807 357.676 660 368.869 660 382.676V603C660 616.807 648.807 628 635 628H414.676C400.869 628 389.676 616.807 389.676 603V382.676Z" stroke="#EFEFEF" />
+  </g>
+  <g id="g_2">
+    <path id="g_2_1" d="M-193.922 829C-193.922 815.193 -182.729 804 -168.922 804H120.864C134.671 804 145.864 815.193 145.864 829V1118.79C145.864 1132.59 134.671 1143.79 120.864 1143.79H-168.922C-182.729 1143.79 -193.922 1132.59 -193.922 1118.79V829Z" stroke="#EFEFEF" />
+    <path id="g_2_2" d="M468.135 804V901.603C468.135 915.41 456.942 926.603 443.135 926.603H51.7633C37.9562 926.603 26.7633 915.41 26.7633 901.603V804" stroke="#EFEFEF" />
+    <path id="g_2_3" d="M688.82 1017.68H594.72C580.913 1017.68 569.72 1028.87 569.72 1042.68V1437.55C569.72 1451.36 580.913 1462.55 594.72 1462.55H688.82" stroke="#EFEFEF" />
+    <path id="g_2_7" d="M349.035 829C349.035 815.193 360.228 804 374.035 804H663.82C677.628 804 688.82 815.193 688.82 829V1118.79C688.82 1132.59 677.628 1143.79 663.82 1143.79H374.035C360.228 1143.79 349.035 1132.59 349.035 1118.79V829Z" stroke="#EFEFEF" />
+  </g>
+  <g id="g_3">
+    <path id="g_3_1" d="M173.726 344.947C173.726 331.14 184.919 319.947 198.726 319.947H419.05C432.858 319.947 444.05 331.14 444.05 344.947V565.272C444.05 579.079 432.858 590.272 419.05 590.272H198.726C184.919 590.272 173.726 579.079 173.726 565.272V344.947Z" stroke="#EFEFEF" />
+    <path id="g_3_2" d="M700.44 319.947V392.487C700.44 406.294 689.247 417.487 675.44 417.487H374.298C360.49 417.487 349.298 406.294 349.298 392.487V319.947" stroke="#EFEFEF" />
+    <path id="g_3_3" d="M876.012 489.945H806.259C792.452 489.945 781.259 501.138 781.259 514.945V818.875C781.259 832.682 792.452 843.875 806.259 843.875H876.012" stroke="#EFEFEF" />
+    <path id="g_3_4" d="M173.664 489.945H257.413C271.22 489.945 282.413 501.138 282.413 514.945V818.875C282.413 832.682 271.22 843.875 257.413 843.875H173.664" stroke="#EFEFEF" />
+    <path id="g_3_5" d="M700.44 1013.87V935.759C700.44 921.952 689.247 910.759 675.44 910.759H374.298C360.49 910.759 349.298 921.952 349.298 935.759V1013.87" stroke="#EFEFEF" />
+    <path id="g_3_6" d="M173.726 768.548C173.726 754.741 184.919 743.548 198.726 743.548H419.05C432.858 743.548 444.05 754.741 444.05 768.548V988.872C444.05 1002.68 432.858 1013.87 419.05 1013.87H198.726C184.919 1013.87 173.726 1002.68 173.726 988.872V768.548Z" stroke="#EFEFEF" />
+    <path id="g_3_7" d="M605.688 344.947C605.688 331.14 616.881 319.947 630.688 319.947H851.012C864.819 319.947 876.012 331.14 876.012 344.947V565.272C876.012 579.079 864.819 590.272 851.012 590.272H630.688C616.881 590.272 605.688 579.079 605.688 565.272V344.947Z" stroke="#EFEFEF" />
+    <path id="g_3_8" d="M605.688 768.548C605.688 754.741 616.881 743.548 630.688 743.548H851.012C864.819 743.548 876.012 754.741 876.012 768.548V988.872C876.012 1002.68 864.819 1013.87 851.012 1013.87H630.688C616.881 1013.87 605.688 1002.68 605.688 988.872V768.548Z" stroke="#EFEFEF" />
+  </g>
+  <g id="g_4">
+    <path id="g_4_1" d="M846.125 -469C846.125 -482.807 857.318 -494 871.125 -494H1367.98C1381.79 -494 1392.98 -482.807 1392.98 -469V27.8549C1392.98 41.662 1381.79 52.8549 1367.98 52.8549H871.125C857.318 52.8549 846.125 41.662 846.125 27.8549V-469Z" stroke="#EFEFEF" />
+    <path id="g_4_4" d="M846 -150.102H1040.99C1054.8 -150.102 1065.99 -138.909 1065.99 -125.102V540.884C1065.99 554.691 1054.8 565.884 1040.99 565.884H846" stroke="#EFEFEF" />
+    <path id="g_4_5" d="M1911.65 909.782V726.188C1911.65 712.381 1900.45 701.188 1886.65 701.188H1226.3C1212.49 701.188 1201.3 712.381 1201.3 726.188V909.782" stroke="#EFEFEF" />
+    <path id="g_4_6" d="M846.125 387.927C846.125 374.12 857.318 362.927 871.125 362.927H1367.98C1381.79 362.927 1392.98 374.12 1392.98 387.927V884.782C1392.98 898.589 1381.79 909.782 1367.98 909.782H871.125C857.318 909.782 846.125 898.589 846.125 884.782V387.927Z" stroke="#EFEFEF" />
+    <path id="g_4_7" d="M1719.97 -469C1719.97 -482.807 1731.16 -494 1744.97 -494H2241.82C2255.63 -494 2266.82 -482.807 2266.82 -469V27.8549C2266.82 41.662 2255.63 52.8549 2241.82 52.8549H1744.97C1731.16 52.8549 1719.97 41.662 1719.97 27.8549V-469Z" stroke="#EFEFEF" />
+    <path id="g_4_8" d="M1719.97 387.927C1719.97 374.12 1731.16 362.927 1744.97 362.927H2241.82C2255.63 362.927 2266.82 374.12 2266.82 387.927V884.782C2266.82 898.589 2255.63 909.782 2241.82 909.782H1744.97C1731.16 909.782 1719.97 898.589 1719.97 884.782V387.927Z" stroke="#EFEFEF" />
+  </g>
+  <g id="g_5">
+    <path id="g_5_1" d="M948.067 665C948.067 651.193 959.26 640 973.067 640H1214.36C1228.16 640 1239.36 651.193 1239.36 665V906.29C1239.36 920.097 1228.16 931.29 1214.36 931.29H973.067C959.26 931.29 948.067 920.097 948.067 906.29V665Z" stroke="#EFEFEF" />
+    <path id="g_5_2" d="M1515.63 640V720.105C1515.63 733.912 1504.44 745.105 1490.63 745.105H1162.25C1148.45 745.105 1137.26 733.912 1137.26 720.105V640" stroke="#EFEFEF" />
+    <path id="g_5_3" d="M1704.82 823.182H1627.72C1613.91 823.182 1602.72 834.375 1602.72 848.182V1179.56C1602.72 1193.37 1613.91 1204.56 1627.72 1204.56H1704.82" stroke="#EFEFEF" />
+    <path id="g_5_4" d="M948 823.182H1040.18C1053.99 823.182 1065.18 834.375 1065.18 848.182V1179.56C1065.18 1193.37 1053.99 1204.56 1040.18 1204.56H948" stroke="#EFEFEF" />
+    <path id="g_5_5" d="M1515.63 1387.74V1301.63C1515.63 1287.83 1504.44 1276.63 1490.63 1276.63H1162.26C1148.45 1276.63 1137.26 1287.83 1137.26 1301.63V1387.74" stroke="#EFEFEF" />
+    <path id="g_5_6" d="M948.067 1121.45C948.067 1107.65 959.26 1096.45 973.067 1096.45H1214.36C1228.16 1096.45 1239.36 1107.65 1239.36 1121.45V1362.74C1239.36 1376.55 1228.16 1387.74 1214.36 1387.74H973.067C959.26 1387.74 948.067 1376.55 948.067 1362.74V1121.45Z" stroke="#EFEFEF" />
+    <path id="g_5_7" d="M1413.53 665C1413.53 651.193 1424.72 640 1438.53 640H1679.82C1693.63 640 1704.82 651.193 1704.82 665V906.29C1704.82 920.097 1693.63 931.29 1679.82 931.29H1438.53C1424.72 931.29 1413.53 920.097 1413.53 906.29V665Z" stroke="#EFEFEF" />
+    <path id="g_5_8" d="M1413.53 1121.45C1413.53 1107.65 1424.72 1096.45 1438.53 1096.45H1679.82C1693.63 1096.45 1704.82 1107.65 1704.82 1121.45V1362.74C1704.82 1376.55 1693.63 1387.74 1679.82 1387.74H1438.53C1424.72 1387.74 1413.53 1376.55 1413.53 1362.74V1121.45Z" stroke="#EFEFEF" />
+  </g>
+  <g id="g_6">
+    <path id="g_6_3" d="M1750.82 -152.32H1656.72C1642.91 -152.32 1631.72 -141.127 1631.72 -127.32V267.554C1631.72 281.361 1642.91 292.554 1656.72 292.554H1750.82" stroke="#EFEFEF" />
+    <path id="g_6_4" d="M868 -152.32H979.693C993.5 -152.32 1004.69 -141.127 1004.69 -127.32V267.554C1004.69 281.361 993.5 292.554 979.693 292.554H868" stroke="#EFEFEF" />
+    <path id="g_6_5" d="M1530.13 506.234V401.625C1530.13 387.818 1518.94 376.625 1505.13 376.625H1113.76C1099.96 376.625 1088.76 387.818 1088.76 401.625V506.234" stroke="#EFEFEF" />
+    <path id="g_6_6" d="M868.078 191.448C868.078 177.641 879.271 166.448 893.078 166.448H1182.86C1196.67 166.448 1207.86 177.641 1207.86 191.448V481.234C1207.86 495.041 1196.67 506.234 1182.86 506.234H893.078C879.271 506.234 868.078 495.041 868.078 481.234V191.448Z" stroke="#EFEFEF" />
+    <path id="g_6_8" d="M1411.03 191.448C1411.03 177.641 1422.23 166.448 1436.03 166.448H1725.82C1739.63 166.448 1750.82 177.641 1750.82 191.448V481.234C1750.82 495.041 1739.63 506.234 1725.82 506.234H1436.03C1422.23 506.234 1411.03 495.041 1411.03 481.234V191.448Z" stroke="#EFEFEF" />
+  </g>
+
+  <defs>
+    <style>
+/* G 1 */
+
+#g_1_1 {
+  stroke-dasharray: 1038.4000244140625;
+  stroke-dashoffset: 1038.4000244140625;
+  animation: g1_1 12s ease-in-out infinite;
+}
+
+@keyframes g1_1 {
+  0% {
+    stroke-dashoffset: 1038.4000244140625;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 1038.4000244140625;
+  }
+}
+
+#g_1_2 {
+  stroke-dasharray: 524.773193359375;
+  stroke-dashoffset: 524.773193359375;
+  animation: g1_2 12s ease-in-out infinite;
+}
+
+@keyframes g1_2 {
+  0% {
+    stroke-dashoffset: 524.773193359375;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 524.773193359375;
+  }
+}
+
+#g_1_3 {
+  stroke-dasharray: 521.9873046875;
+  stroke-dashoffset: 521.9873046875;
+  animation: g1_3 12s ease-in-out infinite;
+}
+
+@keyframes g1_3 {
+  0% {
+    stroke-dashoffset: 521.9873046875;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 521.9873046875;
+  }
+}
+
+#g_1_4 {
+  stroke-dasharray: 549.97900390625;
+  stroke-dashoffset: 549.97900390625;
+  animation: g1_4 12s ease-in-out infinite;
+}
+
+@keyframes g1_4 {
+  0% {
+    stroke-dashoffset: 549.97900390625;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 549.97900390625;
+  }
+}
+
+#g_1_5 {
+  stroke-dasharray: 535.9154663085938;
+  stroke-dashoffset: 535.9154663085938;
+  animation: g1_5 12s ease-in-out infinite;
+}
+
+@keyframes g1_5 {
+  0% {
+    stroke-dashoffset: 535.9154663085938;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 535.9154663085938;
+  }
+}
+
+#g_1_6 {
+  stroke-dasharray: 1038.396484375;
+  stroke-dashoffset: 1038.396484375;
+  animation: g1_6 12s ease-in-out infinite;
+}
+
+@keyframes g1_6 {
+  0% {
+    stroke-dashoffset: 1038.396484375;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 1038.396484375;
+  }
+}
+
+#g_1_7 {
+  stroke-dasharray: 1038.4002685546875;
+  stroke-dashoffset: 1038.4002685546875;
+  animation: g1_7 12s ease-in-out infinite;
+}
+
+@keyframes g1_7 {
+  0% {
+    stroke-dashoffset: 1038.4000244140625;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 1038.4000244140625;
+  }
+}
+
+#g_1_8 {
+  stroke-dasharray: 1038.396240234375;
+  stroke-dashoffset: 1038.396240234375;
+  animation: g1_8 12s ease-in-out infinite;
+}
+
+@keyframes g1_8 {
+  0% {
+    stroke-dashoffset: 1038.4000244140625;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 1038.4000244140625;
+  }
+}
+
+/* G 5 */
+
+#g_5_1 {
+  stroke-dasharray: 1122.2652587890625;
+  stroke-dashoffset: 1122.2652587890625;
+  animation: g5_1 12s ease-in-out infinite;
+}
+
+@keyframes g5_1 {
+  0% {
+    stroke-dashoffset: 1122.2652587890625;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 1122.2652587890625;
+  }
+}
+
+#g_5_2 {
+  stroke-dasharray: 567.133544921875;
+  stroke-dashoffset: 567.133544921875;
+  animation: g5_2 12s ease-in-out infinite;
+}
+
+@keyframes g5_2 {
+  0% {
+    stroke-dashoffset: 567.133544921875;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 567.133544921875;
+  }
+}
+
+#g_5_3 {
+  stroke-dasharray: 564.1312255859375;
+  stroke-dashoffset: 564.1312255859375;
+  animation: g5_3 12s ease-in-out infinite;
+}
+
+@keyframes g5_3 {
+  0% {
+    stroke-dashoffset: 564.1312255859375;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 564.1312255859375;
+  }
+}
+
+#g_5_4 {
+  stroke-dasharray: 594.291259765625;
+  stroke-dashoffset: 594.291259765625;
+  animation: g5_412s ease-in-out infinite;
+}
+
+@keyframes g5_4 {
+  0% {
+    stroke-dashoffset: 594.291259765625;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 594.291259765625;
+  }
+}
+
+#g_5_5 {
+  stroke-dasharray: 579.139404296875;
+  stroke-dashoffset: 579.139404296875;
+  animation: g5_5 12s ease-in-out infinite;
+}
+
+@keyframes g5_5 {
+  0% {
+    stroke-dashoffset: 579.139404296875;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 579.139404296875;
+  }
+}
+
+#g_5_6 {
+  stroke-dasharray: 1122.2635498046875;
+  stroke-dashoffset: 1122.2635498046875;
+  animation: g5_6 12s ease-in-out infinite;
+}
+
+@keyframes g5_6 {
+  0% {
+    stroke-dashoffset: 1122.2635498046875;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 1122.2635498046875;
+  }
+}
+
+#g_5_7 {
+  stroke-dasharray: 1122.264892578125;
+  stroke-dashoffset: 1122.264892578125;
+  animation: g5_7 12s ease-in-out infinite;
+}
+
+@keyframes g5_7 {
+  0% {
+    stroke-dashoffset: 1122.264892578125;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 1122.264892578125;
+  }
+}
+
+#g_5_8 {
+  stroke-dasharray: 1122.26318359375;
+  stroke-dashoffset: 1122.26318359375;
+  animation: g5_8 12s ease-in-out infinite;
+}
+
+@keyframes g5_8 {
+  0% {
+    stroke-dashoffset: 1122.26318359375;
+  }
+
+  11% {
+    stroke-dashoffset: 0;
+  }
+
+  11%,
+  22% {
+    stroke-dashoffset: 0;
+  }
+
+  33%,
+  100% {
+    stroke-dashoffset: 1122.26318359375;
+  }
+}
+
+/* G 3 */
+
+#g_3_1 {
+  stroke-dasharray: 1038.4000244140625;
+  stroke-dashoffset: 1038.4000244140625;
+  animation: g3_1 12s ease-in-out infinite;
+}
+
+@keyframes g3_1 {
+  0%,
+  33% {
+    stroke-dashoffset: 1038.4000244140625;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 1038.4000244140625;
+  }
+}
+
+#g_3_2 {
+  stroke-dasharray: 524.773193359375;
+  stroke-dashoffset: 524.773193359375;
+  animation: g3_2 12s ease-in-out infinite;
+}
+
+@keyframes g3_2 {
+  0%,
+  33% {
+    stroke-dashoffset: 524.773193359375;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 524.773193359375;
+  }
+}
+
+#g_3_3 {
+  stroke-dasharray: 521.9873046875;
+  stroke-dashoffset: 521.9873046875;
+  animation: g3_3 12s ease-in-out infinite;
+}
+
+@keyframes g3_3 {
+  0%,
+  33% {
+    stroke-dashoffset: 521.9873046875;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 521.9873046875;
+  }
+}
+
+#g_3_4 {
+  stroke-dasharray: 549.97900390625;
+  stroke-dashoffset: 549.97900390625;
+  animation: g3_4 12s ease-in-out infinite;
+}
+
+@keyframes g3_4 {
+  0%,
+  33% {
+    stroke-dashoffset: 549.97900390625;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 549.97900390625;
+  }
+}
+
+#g_3_5 {
+  stroke-dasharray: 535.9154663085938;
+  stroke-dashoffset: 535.9154663085938;
+  animation: g3_5 12s ease-in-out infinite;
+}
+
+@keyframes g3_5 {
+  0%,
+  33% {
+    stroke-dashoffset: 535.9154663085938;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 535.9154663085938;
+  }
+}
+
+#g_3_6 {
+  stroke-dasharray: 1038.396484375;
+  stroke-dashoffset: 1038.396484375;
+  animation: g3_6 12s ease-in-out infinite;
+}
+
+@keyframes g3_6 {
+  0%,
+  33% {
+    stroke-dashoffset: 1038.396484375;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 1038.396484375;
+  }
+}
+
+#g_3_7 {
+  stroke-dasharray: 1038.4002685546875;
+  stroke-dashoffset: 1038.4002685546875;
+  animation: g3_7 12s ease-in-out infinite;
+}
+
+@keyframes g3_7 {
+  0%,
+  33% {
+    stroke-dashoffset: 1038.4002685546875;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 1038.4002685546875;
+  }
+}
+
+#g_3_8 {
+  stroke-dasharray: 1038.396240234375;
+  stroke-dashoffset: 1038.396240234375;
+  animation: g3_8 12s ease-in-out infinite;
+}
+
+@keyframes g3_8 {
+  0%,
+  33% {
+    stroke-dashoffset: 1038.396240234375;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 1038.396240234375;
+  }
+}
+
+/* G 4 */
+
+#g_4_1 {
+  stroke-dasharray: 2144.5234375;
+  stroke-dashoffset: 2144.5234375;
+  animation: g4_1 12s ease-in-out infinite;
+}
+
+@keyframes g4_1 {
+  0%,
+  33% {
+    stroke-dashoffset: 2144.5234375;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 2144.5234375;
+  }
+}
+
+#g_4_4 {
+  stroke-dasharray: 1134.5185546875;
+  stroke-dashoffset: 1134.5185546875;
+  animation: g4_4 12s ease-in-out infinite;
+}
+
+@keyframes g4_4 {
+  0%,
+  33% {
+    stroke-dashoffset: 1134.5185546875;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 1134.5185546875;
+  }
+}
+
+#g_4_5 {
+  stroke-dasharray: 1106.0882568359375;
+  stroke-dashoffset: 1106.0882568359375;
+  animation: g4_5 12s ease-in-out infinite;
+}
+
+@keyframes g4_5 {
+  0%,
+  33% {
+    stroke-dashoffset: 1106.0882568359375;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 1106.0882568359375;
+  }
+}
+
+#g_4_6 {
+  stroke-dasharray: 2144.523681640625;
+  stroke-dashoffset: 2144.523681640625;
+  animation: g4_6 12s ease-in-out infinite;
+}
+
+@keyframes g4_6 {
+  0%,
+  33% {
+    stroke-dashoffset: 2144.523681640625;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 2144.523681640625;
+  }
+}
+
+#g_4_7 {
+  stroke-dasharray: 2144.51513671875;
+  stroke-dashoffset: 2144.51513671875;
+  animation: g4_7 12s ease-in-out infinite;
+}
+
+@keyframes g4_7 {
+  0%,
+  33% {
+    stroke-dashoffset: 2144.51513671875;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 2144.51513671875;
+  }
+}
+
+#g_4_8 {
+  stroke-dasharray: 2144.51513671875;
+  stroke-dashoffset: 2144.51513671875;
+  animation: g4_8 12s ease-in-out infinite;
+}
+
+@keyframes g4_8 {
+  0%,
+  33% {
+    stroke-dashoffset: 2144.51513671875;
+  }
+
+  44% {
+    stroke-dashoffset: 0;
+  }
+
+  44%,
+  55% {
+    stroke-dashoffset: 0;
+  }
+
+  66%,
+  100% {
+    stroke-dashoffset: 2144.51513671875;
+  }
+}
+
+/* G 2 */
+
+#g_2_1 {
+  stroke-dasharray: 1316.2513427734375;
+  stroke-dashoffset: 1316.2513427734375;
+  animation: g2_1 12s ease-in-out infinite;
+}
+
+@keyframes g2_1 {
+  0%,
+  66% {
+    stroke-dashoffset: 1316.2513427734375;
+  }
+
+  77% {
+    stroke-dashoffset: 0;
+  }
+
+  88%,
+  99% {
+    stroke-dashoffset: 0;
+  }
+
+  99%,
+  100% {
+    stroke-dashoffset: 1316.2513427734375;
+  }
+}
+
+#g_2_2 {
+  stroke-dasharray: 665.1289672851562;
+  stroke-dashoffset: 665.1289672851562;
+  animation: g2_2 12s ease-in-out infinite;
+}
+
+@keyframes g2_2 {
+  0%,
+  66% {
+    stroke-dashoffset: 665.1289672851562;
+  }
+
+  77% {
+    stroke-dashoffset: 0;
+  }
+
+  77%,
+  88% {
+    stroke-dashoffset: 0;
+  }
+
+  99%,
+  100% {
+    stroke-dashoffset: 665.1289672851562;
+  }
+}
+
+#g_2_3 {
+  stroke-dasharray: 661.6226196289062;
+  stroke-dashoffset: 661.6226196289062;
+  animation: g2_3 12s ease-in-out infinite;
+}
+
+@keyframes g2_3 {
+  0%,
+  66% {
+    stroke-dashoffset: 661.6226196289062;
+  }
+
+  77% {
+    stroke-dashoffset: 0;
+  }
+
+  77%,
+  88% {
+    stroke-dashoffset: 0;
+  }
+
+  99%,
+  100% {
+    stroke-dashoffset: 661.6226196289062;
+  }
+}
+
+#g_2_7 {
+  stroke-dasharray: 1316.2498779296875;
+  stroke-dashoffset: 1316.2498779296875;
+  animation: g2_7 12s ease-in-out infinite;
+}
+
+@keyframes g2_7 {
+  0%,
+  66% {
+    stroke-dashoffset: 1316.2498779296875;
+  }
+
+  77% {
+    stroke-dashoffset: 0;
+  }
+
+  77%,
+  88% {
+    stroke-dashoffset: 0;
+  }
+
+  99%,
+  100% {
+    stroke-dashoffset: 1316.2498779296875;
+  }
+}
+
+/* G 6 */
+
+#g_6_3 {
+  stroke-dasharray: 661.6265258789062;
+  stroke-dashoffset: 661.6265258789062;
+  animation: g6_3 12s ease-in-out infinite;
+}
+
+@keyframes g6_3 {
+  0%,
+  66% {
+    stroke-dashoffset: 661.6265258789062;
+  }
+
+  77% {
+    stroke-dashoffset: 0;
+  }
+
+  77%,
+  88% {
+    stroke-dashoffset: 0;
+  }
+
+  99%,
+  100% {
+    stroke-dashoffset: 661.6265258789062;
+  }
+}
+
+#g_6_4 {
+  stroke-dasharray: 696.8071899414062;
+  stroke-dashoffset: 696.8071899414062;
+  animation: g6_4 12s ease-in-out infinite;
+}
+
+@keyframes g6_4 {
+  0%,
+  66% {
+    stroke-dashoffset: 696.8071899414062;
+  }
+
+  77% {
+    stroke-dashoffset: 0;
+  }
+
+  77%,
+  88% {
+    stroke-dashoffset: 0;
+  }
+
+  99%,
+  100% {
+    stroke-dashoffset: 696.8071899414062;
+  }
+}
+
+#g_6_5 {
+  stroke-dasharray: 679.1383666992188;
+  stroke-dashoffset: 679.1383666992188;
+  animation: g6_5 12s ease-in-out infinite;
+}
+
+@keyframes g6_5 {
+  0%,
+  66% {
+    stroke-dashoffset: 679.1383666992188;
+  }
+
+  77% {
+    stroke-dashoffset: 0;
+  }
+
+  77%,
+  88% {
+    stroke-dashoffset: 0;
+  }
+
+  99%,
+  100% {
+    stroke-dashoffset: 679.1383666992188;
+  }
+}
+
+#g_6_6 {
+  stroke-dasharray: 1316.23974609375;
+  stroke-dashoffset: 1316.23974609375;
+  animation: g6_6 12s ease-in-out infinite;
+}
+
+@keyframes g6_6 {
+  0%,
+  66% {
+    stroke-dashoffset: 1316.2498779296875;
+  }
+
+  77% {
+    stroke-dashoffset: 0;
+  }
+
+  77%,
+  88% {
+    stroke-dashoffset: 0;
+  }
+
+  99%,
+  100% {
+    stroke-dashoffset: 1316.2498779296875;
+  }
+}
+
+#g_6_8 {
+  stroke-dasharray: 1316.2525634765625;
+  stroke-dashoffset: 1316.2525634765625;
+}
+
+@keyframes g6_8 {
+  0%,
+  66% {
+    stroke-dashoffset: 1316.2525634765625;
+  }
+
+  77% {
+    stroke-dashoffset: 0;
+  }
+
+  77%,
+  88% {
+    stroke-dashoffset: 0;
+  }
+
+  99%,
+  100% {
+    stroke-dashoffset: 1316.2525634765625;
+  }
+}
+
+    </style>
+  </defs>
+</svg>
